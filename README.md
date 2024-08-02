@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Price Negotiator Chatbot
 
 The Price Negotiator Chatbot is a web application built using Django for the frontend and integrated with the OpenAI API to provide a conversational interface for negotiating prices. The project is hosted on AWS.
@@ -64,3 +65,6 @@ AWS: Cloud hosting platform for deployment and scalability.
 
 ## License
 This project is licensed under the MIT License.
+=======
+# Pric
+>>>>>>> d06c16bedfe641b99d41cc51bcfbe1e10c8aa61e
